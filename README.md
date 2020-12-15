@@ -1,11 +1,11 @@
-# astra
-purpose for good 
+# ऐकार
+ऐं निपुण 
 
-# swatch
-if not cleaned then clean
+# विमल
+पवित्री भवति
 
-# Roads
-if roads not maintaining need roads construction automate
+# मार्ग
+वीथी स्वयञ्चलद्यन्त्र
 
-# sudharshana
-Good view for the eyes creates good times
+# सुदर्शना
+दर्शन
